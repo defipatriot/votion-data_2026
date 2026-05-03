@@ -1,0 +1,622 @@
+{
+  "capturedAt": "2026-05-03T23:55:19.238Z",
+  "capturedAtUnix": 1777852519240,
+  "period": 183,
+  "voteBefore": "2026-05-03T23:59:00.000Z",
+  "totalExpectedRewards": 526.6588456237769,
+  "lockups": {
+    "arbluna-max": {
+      "type": "arbLUNA",
+      "duration": "Max",
+      "multiplier": 10,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:45:21.506Z",
+      "votingPower": 5652501.86388,
+      "totalExpectedReward": 443.8462538400388,
+      "optimizations": [
+        {
+          "bucket": "stable",
+          "votingPower": 5652501.86388,
+          "expectedRewards": 4.881288976612732,
+          "isWorthChanging": false,
+          "potentialGain": 0,
+          "deviation": "0.00",
+          "message": "Keep current: only 0.0% deviation, would gain $0.00",
+          "activeVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "newVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "pools": [
+            {
+              "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+              "name": "LUNA-USDC LP"
+            }
+          ]
+        },
+        {
+          "bucket": "project",
+          "votingPower": 5652501.86388,
+          "expectedRewards": 184.14650869913947,
+          "isWorthChanging": false,
+          "potentialGain": 0.002975131742942949,
+          "deviation": "0.04",
+          "message": "Keep current: only 0.0% deviation, would gain $0.00",
+          "activeVoted": {
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 33.32,
+            "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": 26.33,
+            "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": 16.3,
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 15.24,
+            "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": 8.81
+          },
+          "newVoted": {
+            "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u": 8.81737064712132,
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 33.299852840424435,
+            "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": 26.33049303912146,
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 15.251715850653417,
+            "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": 16.300567622679367
+          },
+          "pools": [
+            {
+              "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+              "name": "FUEL-LUNA LP"
+            },
+            {
+              "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+              "name": "USDC-SOLID LP"
+            },
+            {
+              "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
+              "name": "CAPA-LUNA LP"
+            },
+            {
+              "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+              "name": "LUNA-ampLUNA LP"
+            },
+            {
+              "address": "terra1h3z2zv6aw94fx5263dy6tgz6699kxmewlx3vrcu4jjrudg6xmtyqk6vt0u",
+              "name": "bLUNA-LUNA LP"
+            }
+          ]
+        },
+        {
+          "bucket": "bluechip",
+          "votingPower": 5652501.86388,
+          "expectedRewards": 54.78564714742998,
+          "isWorthChanging": false,
+          "potentialGain": 0.4659630942038575,
+          "deviation": "4.06",
+          "message": "Keep current: only 4.1% deviation, would gain $0.47",
+          "activeVoted": {
+            "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": 60.529999999999994,
+            "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": 26.88,
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 12.590000000000002
+          },
+          "newVoted": {
+            "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": 58.72507926392846,
+            "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": 26.654571052042904,
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 14.178912418267661,
+            "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": 0.4414372657609775
+          },
+          "pools": [
+            {
+              "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+              "name": "LUNA-PAXG LP"
+            },
+            {
+              "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
+              "name": "LUNA-INJ LP"
+            },
+            {
+              "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+              "name": "LUNA-wBTC.atom LP"
+            },
+            {
+              "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
+              "name": "USDC-EURe LP"
+            }
+          ]
+        },
+        {
+          "bucket": "single",
+          "votingPower": 5652501.86388,
+          "expectedRewards": 200.0328090168566,
+          "isWorthChanging": false,
+          "potentialGain": 0.007415050884929997,
+          "deviation": "0.04",
+          "message": "Keep current: only 0.0% deviation, would gain $0.01",
+          "activeVoted": {
+            "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": 36.35,
+            "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc": 29.909999999999997,
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 18.13,
+            "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": 8.9,
+            "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": 6.710000000000001
+          },
+          "newVoted": {
+            "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": 36.335160264832886,
+            "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc": 29.913831849228888,
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 18.14042769463502,
+            "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": 8.90467082750191,
+            "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": 6.70590936380129
+          },
+          "pools": [
+            {
+              "address": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
+              "name": "PAXG-wBTC.atom LP"
+            },
+            {
+              "address": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
+              "name": "wBTC.creda.a"
+            },
+            {
+              "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+              "name": "LUNA-arbLUNA LP"
+            },
+            {
+              "address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
+              "name": "USDC-USDt LP"
+            },
+            {
+              "address": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+              "name": "ampCAPA"
+            }
+          ]
+        }
+      ]
+    },
+    "ampluna-max": {
+      "type": "ampLUNA",
+      "duration": "Max",
+      "multiplier": 10,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:45:36.718Z",
+      "votingPower": 1052843.3344,
+      "totalExpectedReward": 82.66408163429877,
+      "optimizations": [
+        {
+          "bucket": "stable",
+          "votingPower": 1052843.3344,
+          "expectedRewards": 0.9091960845067694,
+          "isWorthChanging": false,
+          "potentialGain": 0,
+          "deviation": "0.00",
+          "message": "Keep current: only 0.0% deviation, would gain $0.00",
+          "activeVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "newVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "pools": [
+            {
+              "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+              "name": "LUNA-USDC LP"
+            }
+          ]
+        },
+        {
+          "bucket": "project",
+          "votingPower": 1052843.3344,
+          "expectedRewards": 34.30627916432293,
+          "isWorthChanging": false,
+          "potentialGain": 0.011325971071492802,
+          "deviation": "0.78",
+          "message": "Keep current: only 0.8% deviation, would gain $0.01",
+          "activeVoted": {
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 50.94,
+            "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": 28.92,
+            "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": 20.14
+          },
+          "newVoted": {
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 50.74426365312634,
+            "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564": 28.822266412135644,
+            "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": 20.041865988173015,
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 0.3916039465649954
+          },
+          "pools": [
+            {
+              "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+              "name": "FUEL-LUNA LP"
+            },
+            {
+              "address": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564",
+              "name": "CAPA-LUNA LP"
+            },
+            {
+              "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+              "name": "USDC-SOLID LP"
+            },
+            {
+              "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+              "name": "LUNA-ampLUNA LP"
+            }
+          ]
+        },
+        {
+          "bucket": "bluechip",
+          "votingPower": 1052843.3344,
+          "expectedRewards": 10.204455444508026,
+          "isWorthChanging": false,
+          "potentialGain": 0.011850125855382032,
+          "deviation": "21.80",
+          "message": "Keep current: only 21.8% deviation, would gain $0.01",
+          "activeVoted": {
+            "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": 43.5,
+            "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": 35.21,
+            "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": 20.880000000000003,
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 0.41000000000000003
+          },
+          "newVoted": {
+            "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn": 45.86998695434775,
+            "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl": 33.99971779858761,
+            "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc": 11.189747432067687,
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 8.940547814996949
+          },
+          "pools": [
+            {
+              "address": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn",
+              "name": "USDC-EURe LP"
+            },
+            {
+              "address": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl",
+              "name": "LUNA-INJ LP"
+            },
+            {
+              "address": "terra1sxmrwp48wt3h4whatla7xwl9g6t5y95u589az2cdu0myuzjpkkrs4ztprc",
+              "name": "LUNA-PAXG LP"
+            },
+            {
+              "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+              "name": "LUNA-wBTC.atom LP"
+            }
+          ]
+        },
+        {
+          "bucket": "single",
+          "votingPower": 1052843.3344,
+          "expectedRewards": 37.24415094096104,
+          "isWorthChanging": false,
+          "potentialGain": -0.006561139622604628,
+          "deviation": "0.12",
+          "message": "Keep current: only 0.1% deviation, would gain $-0.01",
+          "activeVoted": {
+            "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": 80.81,
+            "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": 19.189999999999998
+          },
+          "newVoted": {
+            "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr": 80.77289817304138,
+            "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": 19.165235149755993,
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 0.06186667720262341
+          },
+          "pools": [
+            {
+              "address": "terra1h840qkh5pqmrvnt6d3m97slcl3q8k6czv67rrmnydp96xwda2afsghwnjr",
+              "name": "PAXG-wBTC.atom LP"
+            },
+            {
+              "address": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+              "name": "ampCAPA"
+            },
+            {
+              "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+              "name": "LUNA-arbLUNA LP"
+            }
+          ]
+        }
+      ]
+    },
+    "arbluna-12": {
+      "type": "arbLUNA",
+      "duration": "3mo",
+      "multiplier": 2,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:55:20.182Z",
+      "votingPower": 0,
+      "totalExpectedReward": 0,
+      "optimizations": []
+    },
+    "ampluna-12": {
+      "type": "ampLUNA",
+      "duration": "3mo",
+      "multiplier": 2,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:55:20.495Z",
+      "votingPower": 3.788144,
+      "totalExpectedReward": 0.00029825926715686216,
+      "optimizations": [
+        {
+          "bucket": "stable",
+          "votingPower": 3.788144,
+          "expectedRewards": 0.000003274592681059189,
+          "isWorthChanging": false,
+          "potentialGain": 0.000003274592681059189,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "pools": [
+            {
+              "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+              "name": "LUNA-USDC LP"
+            }
+          ]
+        },
+        {
+          "bucket": "project",
+          "votingPower": 3.788144,
+          "expectedRewards": 0.00012353493996319524,
+          "isWorthChanging": false,
+          "potentialGain": 0.00012353493996319524,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 100
+          },
+          "pools": [
+            {
+              "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+              "name": "LUNA-ampLUNA LP"
+            }
+          ]
+        },
+        {
+          "bucket": "bluechip",
+          "votingPower": 3.788144,
+          "expectedRewards": 0.000037254461482548416,
+          "isWorthChanging": false,
+          "potentialGain": 0.000037254461482548416,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 100
+          },
+          "pools": [
+            {
+              "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+              "name": "LUNA-wBTC.atom LP"
+            }
+          ]
+        },
+        {
+          "bucket": "single",
+          "votingPower": 3.788144,
+          "expectedRewards": 0.00013419527303005932,
+          "isWorthChanging": false,
+          "potentialGain": 0.00013419527303005932,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 100
+          },
+          "pools": [
+            {
+              "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+              "name": "LUNA-arbLUNA LP"
+            }
+          ]
+        }
+      ]
+    },
+    "arbluna-1": {
+      "type": "arbLUNA",
+      "duration": "1wk",
+      "multiplier": 1,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:45:48.305Z",
+      "votingPower": 1880.57388,
+      "totalExpectedReward": 0.14790595285623204,
+      "optimizations": [
+        {
+          "bucket": "stable",
+          "votingPower": 1880.57388,
+          "expectedRewards": 0.0016238525656423579,
+          "isWorthChanging": false,
+          "potentialGain": 0.0016238525656423579,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "pools": [
+            {
+              "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+              "name": "LUNA-USDC LP"
+            }
+          ]
+        },
+        {
+          "bucket": "project",
+          "votingPower": 1880.57388,
+          "expectedRewards": 0.06124724266970377,
+          "isWorthChanging": false,
+          "potentialGain": -0.000008844808822336403,
+          "deviation": "85.08",
+          "message": "Keep current: only 85.1% deviation, would gain $-0.00",
+          "activeVoted": {
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 57.46,
+            "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk": 42.54
+          },
+          "newVoted": {
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 17.392784598289854,
+            "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44": 82.60721540171015
+          },
+          "pools": [
+            {
+              "address": "terra1e6k3u9uwysataqnysfdn7y5v254pawm0gcuflumugtd7l4w74slq0qww44",
+              "name": "FUEL-LUNA LP"
+            },
+            {
+              "address": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk",
+              "name": "USDC-SOLID LP"
+            },
+            {
+              "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+              "name": "LUNA-ampLUNA LP"
+            }
+          ]
+        },
+        {
+          "bucket": "bluechip",
+          "votingPower": 1880.57388,
+          "expectedRewards": 0.01847299053448161,
+          "isWorthChanging": false,
+          "potentialGain": 0.01847299053448161,
+          "deviation": "200.00",
+          "message": "Keep current: only 200.0% deviation, would gain $0.02",
+          "activeVoted": {
+            "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw": 100
+          },
+          "newVoted": {
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 100
+          },
+          "pools": [
+            {
+              "address": "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw",
+              "name": "LUNA-WBTC.axl LP"
+            },
+            {
+              "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+              "name": "LUNA-wBTC.atom LP"
+            }
+          ]
+        },
+        {
+          "bucket": "single",
+          "votingPower": 1880.57388,
+          "expectedRewards": 0.0665618670864043,
+          "isWorthChanging": false,
+          "potentialGain": 0.000006572046159586398,
+          "deviation": "64.67",
+          "message": "Keep current: only 64.7% deviation, would gain $0.00",
+          "activeVoted": {
+            "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": 100
+          },
+          "newVoted": {
+            "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry": 67.66736138231994,
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 15.024922571900104,
+            "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc": 15.02648610056172,
+            "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA": 2.28122994521824
+          },
+          "pools": [
+            {
+              "address": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry",
+              "name": "USDC-USDt LP"
+            },
+            {
+              "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+              "name": "LUNA-arbLUNA LP"
+            },
+            {
+              "address": "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc",
+              "name": "wBTC.creda.a"
+            },
+            {
+              "address": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+              "name": "ampCAPA"
+            }
+          ]
+        }
+      ]
+    },
+    "ampluna-1": {
+      "type": "ampLUNA",
+      "duration": "1wk",
+      "multiplier": 1,
+      "period": 183,
+      "voteBefore": "2026-05-03T23:59:00.000Z",
+      "calculated": "2026-05-03T23:46:04.192Z",
+      "votingPower": 3.889068,
+      "totalExpectedReward": 0.00030593731580086706,
+      "optimizations": [
+        {
+          "bucket": "stable",
+          "votingPower": 3.889068,
+          "expectedRewards": 0.00000335845291430449,
+          "isWorthChanging": false,
+          "potentialGain": 0.00000335845291430449,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx": 100
+          },
+          "pools": [
+            {
+              "address": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx",
+              "name": "LUNA-USDC LP"
+            }
+          ]
+        },
+        {
+          "bucket": "project",
+          "votingPower": 3.889068,
+          "expectedRewards": 0.00012671526685179666,
+          "isWorthChanging": false,
+          "potentialGain": 0.00012671526685179666,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4": 100
+          },
+          "pools": [
+            {
+              "address": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
+              "name": "LUNA-ampLUNA LP"
+            }
+          ]
+        },
+        {
+          "bucket": "bluechip",
+          "votingPower": 3.889068,
+          "expectedRewards": 0.000038213553651277115,
+          "isWorthChanging": false,
+          "potentialGain": 0.000038213553651277115,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js": 100
+          },
+          "pools": [
+            {
+              "address": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js",
+              "name": "LUNA-wBTC.atom LP"
+            }
+          ]
+        },
+        {
+          "bucket": "single",
+          "votingPower": 3.889068,
+          "expectedRewards": 0.0001376500423834888,
+          "isWorthChanging": false,
+          "potentialGain": 0.0001376500423834888,
+          "deviation": "100.00",
+          "message": "Keep current: only 100.0% deviation, would gain $0.00",
+          "activeVoted": {},
+          "newVoted": {
+            "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0": 100
+          },
+          "pools": [
+            {
+              "address": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0",
+              "name": "LUNA-arbLUNA LP"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
