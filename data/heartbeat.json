@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "cron": "votion",
+  "capturedAt": "2026-05-17T23:55:20.625Z",
+  "capturedAtUnix": 1779062120625,
+  "runId": "votion-20260517235520",
+  "runMode": "weekly",
+  "currentEpoch": 185,
+  "status": "ok",
+  "stats": {
+    "lockups_captured": 5
+  },
+  "next_expected_run_at": "2026-05-24T23:55:20.625Z"
+}
