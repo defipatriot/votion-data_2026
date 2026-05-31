@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "cron": "votion",
-  "capturedAt": "2026-05-24T23:55:22.144Z",
-  "capturedAtUnix": 1779666922144,
-  "runId": "votion-20260524235522",
+  "capturedAt": "2026-05-31T23:55:25.178Z",
+  "capturedAtUnix": 1780271725178,
+  "runId": "votion-20260531235525",
   "runMode": "weekly",
-  "currentEpoch": 186,
+  "currentEpoch": 187,
   "status": "ok",
   "stats": {
     "lockups_captured": 5
   },
-  "dataFingerprint": "92bb590b9fbd",
-  "previousFingerprint": null,
+  "dataFingerprint": "14248eeb70dd",
+  "previousFingerprint": "92bb590b9fbd",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-05-31T23:55:22.144Z"
+  "next_expected_run_at": "2026-06-07T23:55:25.178Z"
 }
